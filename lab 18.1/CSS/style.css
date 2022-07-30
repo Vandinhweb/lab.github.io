@@ -1,0 +1,22 @@
+.navbar .bg-light {
+  background-color: black;
+  color: #fff;
+}
+/* .carousel-caption {
+  text-align: left;
+} */
+.div-left {
+  text-align: left;
+}
+footer {
+  display: flex;
+  margin-top: 50px;
+  width: 100%;
+}
+.ul-ft {
+  display: flex;
+}
+.ul-ft li {
+  list-style-type: none;
+  padding: 0 20px;
+}
